@@ -1,0 +1,4 @@
+/.vscode
+/blog/__pycache__
+/blog/migrations
+/myApp/__pycache__
